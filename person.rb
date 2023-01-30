@@ -12,7 +12,6 @@ class Person
     of_age? == true || @parent_permission == true
   end
 
-
   private
 
   def of_age?
